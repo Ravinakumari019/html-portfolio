@@ -1,2 +1,2 @@
 # html-portfolio
-# this id my very first web-page
+# this is my very first web-page
